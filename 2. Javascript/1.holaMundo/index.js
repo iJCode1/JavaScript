@@ -1,1 +1,0 @@
-alert("Mi primer Ventana de JS")
