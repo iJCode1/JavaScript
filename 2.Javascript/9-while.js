@@ -25,4 +25,7 @@ document.write("<h3>Fecha del Sistema: "+año+"</h3>");
 do{
     document.write("La fecha es: "+yearU+"<br/>");
     yearU++;
+    if(yearU==2019){
+        break;
+    }
 }while(yearU<=año);
