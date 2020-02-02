@@ -28,6 +28,12 @@ var flotante = 3.56;
 var booleano = true;
 
 console.log(Number(texto)+1); //Convertir un numero 'String' a Numero
+console.log(typeof(Number(texto)+1));
 console.log(String(entero)+2); //Convertir un dato numerico a String
+console.log(typeof(String(entero)+2));
 //Tambien se puede usar parseInt o parseFloat para cambiar de tipo de dato
 console.log(parseInt(flotante));
+console.log(typeof(parseInt(flotante)));
+
+console.log(typeof(booleano));
+
