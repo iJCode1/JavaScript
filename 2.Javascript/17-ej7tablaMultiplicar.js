@@ -19,3 +19,12 @@ while(isNaN(n) || n<=0){
 for(var i=1;i<=10;i++){
 	document.write("<p>"+n+" * "+i+" = "+(n*i)+"</p>");
 }
+
+//Extra: Todas las tablas de multiplicar del 1 al 10.
+
+for(var i=1;i<=10;i++){
+	document.write("<h2>Tabla del Numero: "+i+"</h2>");
+	for(var j=1;j<=10;j++){
+		document.write("<p>"+i+" * "+j+" = "+(i*j)+"</p>");
+	}
+}
