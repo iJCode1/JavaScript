@@ -1,4 +1,4 @@
-'use strict'
+	'use strict'
 
 /*
 
@@ -55,5 +55,5 @@ document.write("<br></br>");
 
 var ages = [20,20,24,18,23,24];
 
-edades(...ages,56,32,15,36,21);
+edades(...ages,56,32,15,36,21,34);
 
