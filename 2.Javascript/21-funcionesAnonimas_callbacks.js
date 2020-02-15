@@ -8,7 +8,7 @@
 */
 
 var msj = function(nombre){
-	document.write("Hola, soy una función Anonima. y tu eres: "+nombre);
+	document.write("Hola, soy una función Anonima, y tu eres: "+nombre);
 };
 
 msj("Joel</br>");
