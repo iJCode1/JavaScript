@@ -7,6 +7,10 @@
 	Declaramos una variable donde se guardara el resultado de la funcion que queramos.
 */
 
-var suma = (a,b) => (a+b);
+	//Repaso de Funciones Flecha!
 
-document.write("La suma es: "+suma(7,3));
+var nameV = (nameP,edad) =>
+	document.write("Name is: "+nameP+" Tiene "+edad+" años.");
+
+
+nameV("Joel",20);
