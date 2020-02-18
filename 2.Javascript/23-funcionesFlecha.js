@@ -19,7 +19,7 @@ nameV("Joel",20);
 
 */
 
-	//Repaso de Funciones Flecha pero con Callbacks.
+	//Repaso de Funciones Flecha pero con Callbacks. y editado en Github
 
 function cal(n1,n2,suma){
 	document.write("<p>Number 1: "+n1+"</p>");
